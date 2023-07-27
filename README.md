@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @dhxnuvagman
-- 👀 I’m interested in ...coding!
-- 🌱 I’m currently learning ...python
-- 📫 reach me on instagram:dhxnu_vagman
+- 👋 Hi, I’m @dhxnuvagman.
+- 👀 I’m new to github.
+- 🌱 I’m currently learning frontend.
 
 <!---
 dhxnuvagman/dhxnuvagman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
